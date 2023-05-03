@@ -13,7 +13,7 @@ class Me(ReverseEngineer):
 <h3 align="center">🛠 Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,django,bash,git,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css" />
   </a>
 </p>
 

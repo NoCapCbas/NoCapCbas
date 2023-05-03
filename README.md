@@ -10,10 +10,17 @@ class Me(ReverseEngineer):
 
 
 
-<h3 align="center">🛠 Skills and Technologies</h3>
+<h3 align="center">🛠 Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,html,css,django,bash,git,docker,vscode" />
+  </a>
+</p>
+
+<h3 align="center">Technologies</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,bash,git,docker,vscode" />
   </a>
 </p>
 

@@ -43,4 +43,6 @@ if __name__ == '__main__':
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nocapcbas&show_icons=true&locale=en&layout=compact" alt="nocapcbas" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nocapcbas&show_icons=true&locale=en&layout=compact" alt="nocapcbas" />
+</p>

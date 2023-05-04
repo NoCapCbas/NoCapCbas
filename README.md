@@ -1,10 +1,28 @@
 ```python
 
-class Me(ReverseEngineer):
-
-  def skills():
+class Me:
+    def skills(self):
+        programming_languages = {
+            'known' : ['python', 'javascript'],
+            'learning' : ['c++']
+        },
+        technologies = {
+            'known' : ['git', 'bash'],
+            'learning' : ['docker']
+        }
+        frameworks ={
+            'known' : ['django'],
+            'learning' : ['reactjs']
+        }
     
-      
+        return programming_languages, technologies, frameworks
+    
+    def code(self):
+        print('Typeing...')
+if __name__ == '__main__':
+    me = Me()
+    while True:
+        me.code()
 
 ```
 

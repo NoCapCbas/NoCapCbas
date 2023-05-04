@@ -19,6 +19,7 @@ class Me:
     
     def code(self):
         print('Typeing...')
+        
 if __name__ == '__main__':
     me = Me()
     while True:

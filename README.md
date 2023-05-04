@@ -18,7 +18,7 @@ class Me:
         return programming_languages, technologies, frameworks
     
     def code(self):
-        print('Typeing...')
+        print('Typing...')
         
 if __name__ == '__main__':
     me = Me()

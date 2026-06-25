@@ -10,4 +10,4 @@
 - 🌐 **[damondiaz.xyz](https://damondiaz.xyz)** - Personal portfolio
 - 🔖 **[WebStash](https://webstash.savvilabs.co)** - Online bookmark management
 - 🛢️ **[DataOps](https://dataops.savvilabs.co)** - Data scraping service
-- 🟢 **[didmyjobrun.com](https://didmyjobrun.com)** - External monitor that confirms your cron jobs, scripts, and automations actually ran on schedule — and alerts you when they don't
+- 🟢 **[didmyjobrun.com](https://didmyjobrun.com)** - Cron & automation monitoring
